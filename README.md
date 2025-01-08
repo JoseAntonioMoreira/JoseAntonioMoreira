@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bi
 
 ## 📊 GitHub Stats
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMoreira&show_icons=true&theme=radical)
+<!--![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMoreira&show_icons=true&theme=radical)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioMoreira&layout=compact&theme=radical)
 
