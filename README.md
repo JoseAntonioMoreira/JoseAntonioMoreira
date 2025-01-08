@@ -60,7 +60,7 @@ Here are some of the projects I’ve worked on:
 ## 🌐 Let's Connect
 
 - LinkedIn: [josemoreira99](https://www.linkedin.com/in/josemoreira99)
-- Email: [jose.antonio18@gmail.com](mailto:jose.antonio.moreira18@gmail.com)
+- Email: [jose.antonio.moreira18@gmail.com](mailto:jose.antonio.moreira18@gmail.com)
 
 ---
 
