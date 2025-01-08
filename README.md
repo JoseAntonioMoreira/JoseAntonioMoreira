@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bi
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **JAVA Spring-Boot/C# .NET**.
+- 🌱 I’m currently learning **JAVA Spring-Boot and C# .NET**.
 - 🔭 I’m working on **developing my portfolio**.
 - 🤝 I’m open to collaborate on interesting projects, especially in **Games or other tech projects**.
 - ⚡ Fun fact: **video games are my passion**.
