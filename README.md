@@ -43,8 +43,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bi
 
 Here are some of the projects I’ve worked on:
 
-- **Task Manager Application**: An application to manage tasks efficiently.
-  [Repository Link](https://github.com/JoseAntonioMoreira/Task-Manager-Application)
+- **[Task Manager Application](https://github.com/JoseAntonioMoreira/Task-Manager-Application)**: An application to manage tasks efficiently.
+  
 
 - **[UnWasted Frontend]**: [Single page application made with JavaScript].
   [Repository Link](https://github.com/JoseAntonioMoreira/UnWastedSPA-FrontEnd)
