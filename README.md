@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jose Antonio Moreira
 
-<!--
-**JoseAntonioMoreira/JoseAntonioMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bit about me and my work:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently learning **JAVA Spring-Boot/C# .NET**.
+- 🔭 I’m working on **developing my portfolio**.
+- 🤝 I’m open to collaborate on interesting projects, especially in **Games or other tech projects**.
+- ⚡ Fun fact: **video games are my passion**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+![C#](https://img.shields.io/badge/-C%23-blue)
+![Java](https://img.shields.io/badge/-Java-red)
+![Unity](https://img.shields.io/badge/-Unity-black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-green)
+![HTML5](https://img.shields.io/badge/-HTML5-orange)
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
+
+---
+
+## 📊 GitHub Stats
+
+![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMoreira&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioMoreira&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements
+
+- 🌟 **Completed Bachelor's Degree in IPMAIA**.
+- 🏅 **Completed Code for All 3 months intensive bootcamp**.
+
+---
+
+## 📂 Projects
+
+Here are some of the projects I’ve worked on:
+
+- **Task Manager Application**: An application to manage tasks efficiently.
+  [Repository Link](https://github.com/JoseAntonioMoreira/Task-Manager-Application)
+
+- **[UnWasted Frontend]**: [Single page application made with JavaScript].
+  [Repository Link](https://github.com/JoseAntonioMoreira/UnWastedSPA-FrontEnd)
+
+  - **[UnWasted Backend]**: [Java Spring-Boot backend that works with the SPA above].
+  [Repository Link](https://github.com/JoseAntonioMoreira/UnWasted-BackEnd)
+
+  - **Unity Projects**: Scripts in C# for Unity projects.
+  [Repository Link](https://github.com/JoseAntonioMoreira/Unity)
+
+---
+
+## 🌐 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/josemoreira99/))
+- Email: [Your Email](mailto:jose.antonio.moreira18@gmail.com)
+
+---
+
+### Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions. 😊
