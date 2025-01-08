@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bi
 Here are some of the projects I’ve worked on:
 
 - **[Task Manager Application](https://github.com/JoseAntonioMoreira/Task-Manager-Application)**: An application to manage tasks efficiently.
-- **[Repository Link](https://github.com/JoseAntonioMoreira/UnWastedSPA-FrontEnd)**: [Single page application made with JavaScript].
-  - **[Repository Link](https://github.com/JoseAntonioMoreira/UnWasted-BackEnd)**: [Java Spring-Boot backend].
-- **[Repository Link](https://github.com/JoseAntonioMoreira/Unity)**: Scripts in C# for Unity projects.
+- **[UnWasted frontend](https://github.com/JoseAntonioMoreira/UnWastedSPA-FrontEnd)**: [Single page application made with JavaScript].
+  - **[UnWasted backend](https://github.com/JoseAntonioMoreira/UnWasted-BackEnd)**: [Java Spring-Boot backend].
+- **[Unity projects](https://github.com/JoseAntonioMoreira/Unity)**: Scripts in C# for Unity projects.
 
 ---
 
