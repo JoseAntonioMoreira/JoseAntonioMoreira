@@ -49,11 +49,11 @@ Here are some of the projects I’ve worked on:
 - **[UnWasted Frontend]**: [Single page application made with JavaScript].
   [Repository Link](https://github.com/JoseAntonioMoreira/UnWastedSPA-FrontEnd)
 
-  - **[UnWasted Backend]**: [Java Spring-Boot backend that works with the SPA above].
+  - **[UnWasted Backend]**: [Java Spring-Boot backend].
   [Repository Link](https://github.com/JoseAntonioMoreira/UnWasted-BackEnd)
 
-  - **Unity Projects**: Scripts in C# for Unity projects.
-  [Repository Link](https://github.com/JoseAntonioMoreira/Unity)
+- **Unity Projects**: Scripts in C# for Unity projects.
+[Repository Link](https://github.com/JoseAntonioMoreira/Unity)
 
 ---
 
